@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T05:25:47.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="myBr14-6Csz5kAM-Lto8" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T05:28:23.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="k-1Tga-WnseB6sUuMdkH" version="24.2.0" type="github">
   <diagram name="Page-1" id="LfIRwIsGOQLriB3sK6uA">
-    <mxGraphModel dx="2060" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="XJBVZiOgVVjpqYQIzhoc-9" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_AD_Identity_Protection.svg;" vertex="1" parent="1">
           <mxGeometry x="360" y="460" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XJBVZiOgVVjpqYQIzhoc-10" value="IdentityServer4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XJBVZiOgVVjpqYQIzhoc-10" value="Identity Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="355" y="430" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XJBVZiOgVVjpqYQIzhoc-11" value="api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -67,7 +67,7 @@
         <mxCell id="XJBVZiOgVVjpqYQIzhoc-29" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_AD_Identity_Protection.svg;" vertex="1" parent="1">
           <mxGeometry x="365" y="880" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XJBVZiOgVVjpqYQIzhoc-30" value="IdentityServer4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XJBVZiOgVVjpqYQIzhoc-30" value="Identity Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="850" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XJBVZiOgVVjpqYQIzhoc-31" value="api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
